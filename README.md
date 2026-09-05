@@ -1,2 +1,15 @@
-# ai-learning
-My ai and automation learning projects
+# 我的 AI 学习项目
+
+这是我的 AI、剪辑和自动化学习仓库。
+
+## 我的学习方向
+
+- AI 工具
+- AI + 剪辑
+- Python
+- 自动化
+- AI 内容生产
+
+## 我的目标
+
+通过学习 AI、剪辑和自动化，逐渐建立自己的生产力技能。
